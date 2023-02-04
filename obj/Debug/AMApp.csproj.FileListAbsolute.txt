@@ -1,0 +1,46 @@
+C:\Users\Alex\Desktop\AMApp\bin\Debug\Database.mdf
+C:\Users\Alex\Desktop\AMApp\bin\Debug\Database_log.ldf
+C:\Users\Alex\Desktop\AMApp\bin\Debug\AMApp.exe.config
+C:\Users\Alex\Desktop\AMApp\bin\Debug\AMApp.exe
+C:\Users\Alex\Desktop\AMApp\bin\Debug\AMApp.pdb
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.Properties.Resources.resources
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.Registration.resources
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.exe
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.pdb
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.Login.resources
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.Home.resources
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.ClassyNTPD.resources
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.TREXGAME.resources
+C:\Users\Alex\Desktop\AMApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\AMApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\AMApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\AMApp\obj\Debug\AMApp.Resources.MyMp3Player.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\bin\Debug\Database.mdf
+C:\Users\Alex\Downloads\AMApp 1\AMApp\bin\Debug\Database_log.ldf
+C:\Users\Alex\Downloads\AMApp 1\AMApp\bin\Debug\AMApp.exe.config
+C:\Users\Alex\Downloads\AMApp 1\AMApp\bin\Debug\AMApp.exe
+C:\Users\Alex\Downloads\AMApp 1\AMApp\bin\Debug\AMApp.pdb
+C:\Users\Alex\Downloads\AMApp 1\AMApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Downloads\AMApp 1\AMApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.csproj.ResolveComReference.cache
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.ClassyNTPD.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.Home.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.Login.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.Properties.Resources.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.Registration.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.Resources.MyMp3Player.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.TREXGAME.resources
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.csproj.GenerateResource.cache
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.exe
+C:\Users\Alex\Downloads\AMApp 1\AMApp\obj\Debug\AMApp.pdb
