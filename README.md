@@ -5,7 +5,6 @@
   <p align="center">
     O aplicație simplă folosind Windows Form Application (C#)
     <br/>
-    
     <br/>
   </p>
 </p>
